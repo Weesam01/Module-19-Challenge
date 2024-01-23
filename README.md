@@ -15,6 +15,6 @@ Write the wage variable to the Streamlit sidebar by using st.sidebar.write.
 In this section, we will test the KryptoJobs2Go application with your newly integrated Ethereum wallet. Testing the transaction by using the web interface of the application, and then look up the resulting transaction in Ganache.
 
 ![Alt text](Images/cap2.PNG)
-![Alt text](Images/cap3.PNG)
+![Alt text](Images/cap5.PNG)
 ![Alt text](Images/cap4.PNG)
 
